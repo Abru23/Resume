@@ -3,11 +3,14 @@
   uni: George Washington University
   year: 2028
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: RHA
+    - award: SEASSPAN Mentor
+    - award: Marketing Chair for Aviators Club GWU
+
+  summary: 
 
 - degree: International Baccalaureate Diploma (IB)
   uni: Pearson College United World Colleges (UwC)
   year: 2024
   award: Pearson College Emergency Responsive Team (PCERT)
-  summary: I was the leader of communication for my PCERT 
+  summary: Leader of communication
